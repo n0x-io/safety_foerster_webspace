@@ -1,6 +1,6 @@
 baseURL = 'https://www.safety-foerster.com/'
 languageCode = 'de-de'
-title = "Safety Förster - Under Construction"
+title = "Safety Förster"
 
 theme = "hugo-scroll"
 
@@ -8,13 +8,13 @@ theme = "hugo-scroll"
 [params]
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
-    favicon = "images/favicon.png"
+    favicon = "images/Favicon_square.png"
 
     # These "images" are used for the structured data templates. This will show up, when
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and https://gohugo.io/templates/internal#open-graph.
     # NOT the actual header background image, go to _index.md instead
-    images = ["background.jpg"]
+    images = ["background2.jpg"]
 
     # When set true, it creates a visual guard (partially transparent rounded box), preventing non-ideal background images from interfering with title/description headings
     # Ideal images are homogenous around the centre and contrasting to the text.
@@ -25,7 +25,7 @@ theme = "hugo-scroll"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Safety Förster - Under Construction"
+    title = "Safety Förster"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Ihr Ansprechpartner für Höhensicherheit"
@@ -67,21 +67,16 @@ theme = "hugo-scroll"
 
     [[params.contacts]]
         label = "phone"
-        value = "+49 1111 555555"
-        url = "tel:+49 1111 555555"
+        value = "+49 171 10 63329"
+        url = "tel:+49 171 10 63329"
         icon = "fa fa-phone"
 
     [[params.contacts]]
         label = "email"
-        value = "mail@janedoe.com"
-        url = "mailto:mail@janedoe.com"
+        value = "thfo@safety-foerster.com"
+        url = "mailto:thfo@safety-foerster.com"
         icon = "fa fa-envelope"
 
-    [[params.contacts]]
-        label = "GitHub"
-        value = "github.com/zjedi/hugo-scroll"
-        url = "https://github.com/zjedi/hugo-scroll"
-        icon = "fa-brands fa-github"
 
     # Add additional contacts here!
     # [[params.contacts]]
