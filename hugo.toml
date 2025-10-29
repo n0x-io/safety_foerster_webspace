@@ -39,7 +39,7 @@ theme = "hugo-scroll"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Thomas Förster"
+    copyright = "© Safety Förster Thomas Förster - Alle Rechte vorbehalten"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
@@ -93,7 +93,7 @@ theme = "hugo-scroll"
 #    contentDir = "content/en"
 
   [languages.de]
-    title = "Safety Förster - Under Construction"
+    title = "Safety Förster"
     weight = 20
     contentDir = "content/de"
     languageName = "Deutsch"

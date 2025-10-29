@@ -2,41 +2,32 @@
 title: "Mein Angebot"
 ---
 
-Das ist die deutsche Variante von meinem Angebot.
+_**TODO:**_ Leistungen beschreiben ;)
 
-It carries a lot more detail than what I put on the homepage - I swear!
-
-You want to know what I can do for you?
-
-Well, let me tell ya!
+Hier könnten Produkte/Leistungen im Detail beschrieben werden.
 
 ---
 
-## Nutrition Coaching
+## Raufklettern
 
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
+Hoch kommt jeder.
 
-<!-- Note how static images need to have leading slash from the dedicated pages -->
+![Raufklettern)](/images/luckas-spalinger-rLfmSxCOjTY-unsplash.jpg)
 
-![Nice picture to make you pay me ;-)](/images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
-
-Wow. That was nice, right? Well, call me and let us talk.
+Aber sicher muss es sein!
 
 ---
 
-## Chef Consulting
+## Runter fallen (sicher)
 
-Did you see the picture above? I can show you how to go from
+Mit dem richtigen Gerät und richtigem Griff
 
-![Let us get started on a clean slate](/images/board-bunch-cooking-food-349609.jpg)
+![Gear makes all the difference](/images/juan-goyache-W-nrHuJlfI8-unsplash.png)
+ 
+---
 
-to
+## Knoten lösen
 
-![Let us get started on a clean slate](/images/woman-pouring-juice-on-glass-3184192.jpg)
+...die im Kopf, nicht die, an denen Sie gerade hängen!
 
-in estimated seconds.
-
-Don't believe me? Here are some bullets
-
-* If anyone can teach you to cook, I can
-* And if you already know how to cook, I will make you that much better
+![Knoten](/images/alex-hz8oKcPIyAU-unsplash.jpg)

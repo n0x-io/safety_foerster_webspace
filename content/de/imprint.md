@@ -12,7 +12,7 @@ Schloßstrasse 10
 
 Telefon: 02778-699 383  
 Telefax: 02778-699 384  
-E-Mail: info@safety-foerster.com
+E-Mail: info[at]safety-foerster.com
 
 
 ## Verbraucherstreitbeilegung/Universalschlichtungsstelle

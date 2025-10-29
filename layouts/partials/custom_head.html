@@ -50,25 +50,35 @@ GREY: #303942
 
 <style>
 :root {
-     --cover-text-color: #303942!important;
-     --section-dark-bg-color: #ad291e!important;
+     --red: #ad291e;
+     --grey: #303942;
+     --white: #f3f1f2;
 
-     --highlight: #303942!important;
-     
-     --highlight-contrast: #f3f1f2!important;
+     /* === Cover / Landing area === */
+     --cover-text-color: var(--grey)!important;
+     /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
+     --highlight: var(--grey)!important;
+     --highlight-contrast: var(--white)!important;
 
-     --sticky-menu-text-color: #ad291e!important; 
+     /* Dark section - text color */
+     --section-dark-text-color: var(--white)!important;
+     /* Dark section - background color */
+     --section-dark-bg-color: var(--grey)!important;
 
-     --section-light-bg-color: #f3f1f2!important;
+     /* === sticky top/left navigation menus === */
+     --sticky-menu-text-color:  var(--red)!important; 
+     --section-light-bg-color:  var(--white)!important;
 
+         /* === Footer === */
+    --footer-color-background: var(--grey)!important;
+    --footer-color: var(--white)!important;
 
-     #blog-logo {
-          display: block;
-          max-height: 300px;
-          width: auto;
-          margin: 0 auto;
-          line-height: 0;
-     }
-
+    #blog-logo {
+        display: block;
+        max-height: 150px;
+        width: auto;
+        margin: 0 auto;
+        line-height: 0;
+    }
 }
 </style>
