@@ -1,20 +1,28 @@
 #!/usr/bin/env bash
-
 #------------------------------------------------------------------------------
 # @file
 # Builds a Hugo site hosted on a Cloudflare Worker.
 #
 # The Cloudflare Worker automatically installs Node.js dependencies.
 #------------------------------------------------------------------------------
-
 main() {
-
   DART_SASS_VERSION=1.93.2
   GO_VERSION=1.25.3
   HUGO_VERSION=0.152.2
   NODE_VERSION=22.20.0
-
   export TZ=Europe/Berlin
+
+  # Configure Git early
+  echo "Configuring Git..."
+  git config core.quotepath false
+  
+  if [ "$(git rev-parse --is-shallow-repository)" = "true" ]; then
+    git fetch --unshallow
+  fi
+
+  # Initialize and update submodules
+  echo "Pulling theme submodule..."
+  git submodule update --init --recursive
 
   # Install Dart Sass
   echo "Installing Dart Sass ${DART_SASS_VERSION}..."
@@ -52,17 +60,9 @@ main() {
   echo Hugo: "$(hugo version)"
   echo Node.js: "$(node --version)"
 
-  # Configure Git
-  echo "Configuring Git..."
-  git config core.quotepath false
-  if [ "$(git rev-parse --is-shallow-repository)" = "true" ]; then
-    git fetch --unshallow
-  fi
-
   # Build the site
   echo "Building the site..."
   hugo --gc --minify
-
 }
 
 set -euo pipefail
