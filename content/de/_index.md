@@ -10,7 +10,7 @@ header_logo: "images/Logo_with_name_no_background.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 #header_headline: "Safety Förster"
-header_subheadline: "Ihr Ansprechpartner für Höhensicherheit"
+header_subheadline: "Absturzsicherung ohne Kompromisse"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

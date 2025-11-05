@@ -1,11 +1,13 @@
 ---
-title: "Kontaktieren Sie mich"
+title: "Kontaktieren Sie uns"
 header_menu_title: "Kontakt"
 navigation_menu_title: "Kontakt"
 weight: 4
 header_menu: true
 ---
 
-{{<contact_list>}}
+Sie möchten mehr erfahren oder ein persönliches Beratungsgespräch vereinbaren? Kontaktieren Sie uns – wir freuen uns auf Ihre Anfrage!
 
-Let's get in touch!
+SAFETY FOERSTER
+Thomas Förster
+{{<contact_list>}}

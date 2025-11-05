@@ -1,15 +1,16 @@
 ---
-title: "Das biete ich an"
-header_menu_title: "Angebot"
-navigation_menu_title: "Mein Angebot"
+title: "Unsere Leistungen"
+header_menu_title: "Leistungen"
+navigation_menu_title: "Unsere Leistungen"
 weight: 2
 header_menu: true
 ---
 
 
-_**TODO:**_ Kurzbeschreibung deiner Leistungen und dann...
+- Fachkundige Beratung zu allen Fragen der Absturzsicherung im Einsatz
+- Vertrieb geprüfter Schutzsysteme führender Hersteller
+- Zuverlässiger Service und Wartung
+- Systemeinweisungen und Zertifizierungen für Einsatzkräfte und Personal
 
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-... verlinken wir auf die dedizierte [Seite deiner Angebote](services) mit allen Details.
+ ![Thomas Förster](/images/328fda50-fba4-4de0-984c-da3da38510b0.jpg)

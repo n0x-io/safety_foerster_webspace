@@ -28,7 +28,7 @@ theme = "hugo-scroll"
     title = "Safety Förster"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Ihr Ansprechpartner für Höhensicherheit"
+    description = "Absturzsicherung ohne Kompromisse"
 
     # Show a menu of languages available
     language_menu = true
@@ -63,12 +63,12 @@ theme = "hugo-scroll"
     showFooterLinks = false
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "SAFETY, FOERSTER, Absturzschutzsysteme, Absturzsicherung"
 
     [[params.contacts]]
         label = "phone"
-        value = "+49 171 10 63329"
-        url = "tel:+49 171 10 63329"
+        value = "+49 2778 699 383"
+        url = "tel:+49 2778 699 383"
         icon = "fa fa-phone"
 
     [[params.contacts]]

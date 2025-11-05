@@ -1,52 +1,8 @@
 ---
-title: "Willkommen"
 weight: 1
+title: "Ihr Spezialist für Absturzschutzsysteme"
+header_menu_title: "Willkommen"
+navigation_menu_title: "Willkommen"
 ---
 
-
-_**TODO:**_ Hier einen kurzen Opener schreiben
-
-> Wir können es wie einen Unfall aussehen lassen.
-
----
-
-Diese Willkommensseite wird nicht im Menü oben angezeigt. Das kann aber aktiviert werden.
-
-
-Text kann in **fett** oder *kursiv* oder sogar ~~durchgestrichen~~ dargestellt werden.
-
-Trennstriche sind mögliche und sehen wie folgt aus:
-
----
-
-Als Überschriften gibt es:
-
-# Überschrift 1
-
-## Überschrift 2
-
-### Überschrift 3
-
-#### Überschrift 4
-
-##### Überschrift 5
-
----
-
-Bilder sehen so aus:
-
-![Feuerwehr](/images/IMG_2116.jpg)
-
----
-
-Wenn nötig kann man
-- Auch 
-- Aufzählungen
-- Machen,
-
-1. Sogar
-1. Mit
-1. Nummerierung
-
-
-Tob dich aus!
+Willkommen bei **SAFETY FOERSTER**, Ihrem erfahrenen Partner für Beratung, Vertrieb und Service rund um professionelle Absturzsicherung im Einsatz. Wir bieten maßgeschneiderte Lösungen für Feuerwehr, Katastrophenschutz und Industrie – damit Sie und Ihr Team in jeder Situation optimal geschützt sind.

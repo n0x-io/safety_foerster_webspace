@@ -1,19 +1,13 @@
 ---
-title: "Über mich"
+title: "Warum SAFETY FOERSTER?"
 weight: 3
 header_menu: true
 ---
 
-_**TODO:**_ Wer ist eigentlich dieser **Fomas Thörster**
+ - Langjährige Erfahrung in sicherheitskritischen Bereichen
+ - Geprüfte Produkte nach aktuellen Normen und Richtlinien
+ - Individuelle Systemlösungen für spezielle Anforderungen
+ - Persönliche Betreuung und schnelle Reaktionszeiten
 
-Hier Könnte auch ein kompletter Lebenslauf verlinkt werden.
 
-Fachkraft für Arbeitssicherheit und Feuerwehr und so Sachen.
-
-#### Section 1
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-#### Section 2
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![Thomas Förster](/images/95d0ca20-4a73-42e2-b7e2-db3b7f81f835.jpg)
