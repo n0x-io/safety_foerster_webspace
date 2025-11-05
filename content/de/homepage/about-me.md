@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
- - Langjährige Erfahrung in sicherheitskritischen Bereichen
+ - Über 30 Jahre Erfahrung in sicherheitskritischen Bereichen
  - Geprüfte Produkte nach aktuellen Normen und Richtlinien
  - Individuelle Systemlösungen für spezielle Anforderungen
  - Persönliche Betreuung und schnelle Reaktionszeiten
